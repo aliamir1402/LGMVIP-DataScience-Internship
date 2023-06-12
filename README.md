@@ -10,4 +10,4 @@
 
 **Intermediate Level**
 
-**Task 2** Prediction using Decision Tree Classifier
+**Task 2:** Prediction using Decision Tree Classifier
